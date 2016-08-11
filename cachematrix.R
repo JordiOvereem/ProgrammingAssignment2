@@ -30,3 +30,5 @@ cacheSolve <- function(x, ...) {
   x$setinverse(i)
   i
 }
+
+## This is the end of this assignment
